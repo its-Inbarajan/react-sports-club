@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-sports-club/static/css/main.6e46d5e4.css",
+    "main.js": "/react-sports-club/static/js/main.80e72019.js",
+    "static/media/bg.png": "/react-sports-club/static/media/bg.90921f4ab5d7e40290ce.png",
+    "static/media/Premium.jpeg": "/react-sports-club/static/media/Premium.aa795b57a2749fa92b34.jpeg",
+    "index.html": "/react-sports-club/index.html",
+    "main.6e46d5e4.css.map": "/react-sports-club/static/css/main.6e46d5e4.css.map",
+    "main.80e72019.js.map": "/react-sports-club/static/js/main.80e72019.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e46d5e4.css",
+    "static/js/main.80e72019.js"
+  ]
+}
